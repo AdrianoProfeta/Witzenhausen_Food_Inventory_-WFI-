@@ -1,2 +1,2 @@
-# Witzenhausen_Food_Inventory_-WFI-
+# Witzenhausen_Food_Inventory_WFI
 kommt noch
